@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Andenis! 👋
 
 ## About Me
 🎓 I'm currently studying Computer Science at Vilnius University.
